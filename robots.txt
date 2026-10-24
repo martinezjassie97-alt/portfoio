@@ -1,0 +1,4 @@
+User-agent:* 
+Allow: /
+
+Sitemap: https://martinezportfolioo.netlify.app/sitemap.xml
